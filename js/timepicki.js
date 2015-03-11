@@ -10,9 +10,9 @@
 		var defaults = {
 			format_output: function(tim, mini, meri) {
 				if(settings.show_meridian){
-					return tim + " : " + mini + " : " + meri;
+					return tim.trim() + ":" + mini.trim() + ":" + meri.trim();
 				}else{
-					return tim + " : " + mini;
+					return tim.trim() + ":" + mini.trim();
 				}
 			},
 			increase_direction: 'down',
