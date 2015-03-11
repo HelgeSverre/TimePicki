@@ -4,7 +4,7 @@ Timepicki - Simple Time picker jquery plugin
 Original: https://github.com/senthilraj/TimePicki
 
 
-This is a customized version of TimePicki that is used internally by [Fronttek](https://fronttek.no).
+This is a customized version of TimePicki that is used internally by [Fronttek](http://fronttek.no).
 
 
 ## Differences from original
