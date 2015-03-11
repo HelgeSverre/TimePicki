@@ -53,6 +53,7 @@ Author: senthil
 }
 
 .timepicker_wrap {
+	width: 160px;
 	padding: 10px;
 	border-radius: 5px;
 	z-index: 998;
@@ -83,6 +84,7 @@ input.timepicki-input {
     	margin: 0;
     	text-align: center;
     	width: 70%;
+    	height: 50px!important;
 }
 a.reset_time {
 	float: left;
